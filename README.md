@@ -10,4 +10,4 @@ Scripts Included:
 5. Predictive Analysis
 
 Python Packages and Libraries: 
-NLTK, Pandas
+NLTK, Pandas, Seaborn, Matplotlib, numpy
