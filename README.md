@@ -1,4 +1,6 @@
-# Text-Mining-Teaching
+# Text Mining Teaching Material
+
+This repository contains python scripts about the fundamentals of text mining. 
 
 Scripts Included: 
 1. Text Preprocessing
@@ -7,4 +9,5 @@ Scripts Included:
 4. Feature Representation of Text
 5. Predictive Analysis
 
-Python Packages: 
+Python Packages and Libraries: 
+NLTK, Pandas
