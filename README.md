@@ -1,4 +1,4 @@
-# Text Mining Teaching Material
+# Machine Learning and Text Mining Teaching Material
 
 This repository contains python scripts about the fundamentals of text mining. I was an instructor for UNC DataAware program and I taught a cohort of 8 students the basics of text mining and machine learning.
 
@@ -10,4 +10,4 @@ This repository contains python scripts about the fundamentals of text mining. I
 5. Predictive Analysis
 
 **Python Packages and Libraries:** 
-NLTK, Pandas, Seaborn, Matplotlib, numpy, WordBlob, WordCloud, sklearn
+NLTK, Pandas, Seaborn, Matplotlib, numpy, WordBlob, WordCloud, sklearn, TensorFlow, Keras
